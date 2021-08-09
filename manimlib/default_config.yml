@@ -41,6 +41,7 @@ window_monitor: 0
 # easier when working with the broken up scene, which
 # effectively has cuts at all the places you might want.
 break_into_partial_movies: False
+
 camera_qualities:
   low:
     resolution: "854x480"
